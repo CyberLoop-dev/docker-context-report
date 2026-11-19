@@ -1,0 +1,6 @@
+[project]
+name = "docker-context-report"
+version = "1.0.0"
+description = "Estimate files and bytes sent in a Docker build context using common .dockerignore patterns."
+requires-python = ">=3.10"
+dependencies = []
